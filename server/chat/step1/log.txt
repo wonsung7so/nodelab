@@ -1,0 +1,7 @@
+[Wed Jul 17 2019 13:10:47 GMT+0900 (GMT+09:00)] (200) /index.html
+[Wed Jul 17 2019 13:10:47 GMT+0900 (GMT+09:00)] (200) /img/favicon.ico
+[Wed Jul 17 2019 13:11:15 GMT+0900 (GMT+09:00)] (404) /chat.html?username=sdfsdfsd
+[Wed Jul 17 2019 13:11:57 GMT+0900 (GMT+09:00)] (200) /chat.html
+[Wed Jul 17 2019 13:12:23 GMT+0900 (GMT+09:00)] (404) /chat.html?nickname=kim
+[Wed Jul 17 2019 13:12:56 GMT+0900 (GMT+09:00)] (200) /chat.html
+[Wed Jul 17 2019 13:13:06 GMT+0900 (GMT+09:00)] (404) /chat.html?username=sdfsdfsd

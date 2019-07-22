@@ -1,0 +1,1 @@
+console.log('./m2/main.js 로딩됨.');

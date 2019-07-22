@@ -1,0 +1,30 @@
+{
+  "name": "nodelab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "ejs": "^2.6.2",
+    "express-session": "^1.16.2",
+    "mime": "^2.4.4",
+    "morgan": "^1.9.1",
+    "nocache": "^2.1.0",
+    "node-static": "^0.7.11",
+    "serve-static": "^1.14.1",
+    "socket.io": "^2.2.0",
+    "tracer": "^0.9.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon ./hello/helloserver.js",
+    "start2": "node ./hello/helloserver2.js"
+  },
+  "keywords": [
+    "package",
+    "test",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
